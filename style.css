@@ -1,0 +1,56 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.kotak{
+	width: auto;
+	height: auto;
+}
+.header{
+	height: 100px;
+	background: #EA7C1D;
+	font-family: kristen itc;
+	text-align: left;
+}
+.gambar{
+	width: 1px;
+	height: 1px;
+}
+.menu{
+	height: 40px;
+	background: #EB984F;
+}
+.menu ul{
+	padding: 0;
+	margin: 0;
+	background: #EA7C1D;
+	list-style-type: none;
+}
+.menu ul li{
+	float: left;
+	padding: 10px;
+}
+.sidebar{
+	width: 25%;
+	height: 500px;
+	background: #FAC291;
+	float: left;
+}
+.sidebar ul{
+	margin-left: 10px;
+	padding-left: 10px;
+	list-style-type: none;
+}
+.sidebar ul li{
+	color: white;
+}
+
+.content{
+	width: 75%;
+	height: 100%;
+	background: #DFCCBD;
+	float: left;
+}
+.footer{
+	height: 25px;
+}
